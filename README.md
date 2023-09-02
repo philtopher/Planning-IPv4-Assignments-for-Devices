@@ -1,5 +1,5 @@
 # Planning-IPv4-Assignments-for-Devices
-Successfully planned an IPv4 address assignment of over 400 devices at QADev for its UK headquarters in London and three branch offices in Manchester, Glasgow, and Birmingham. Each of the branch offices, were to use IP addresses from the list of addresses assigned to the London office. 
+Successfully planned an IPv4 address assignment of over 400 devices at QA's clients for its UK headquarters in London and three branch offices in Manchester, Glasgow, and Birmingham. Each of the branch offices, were to use IP addresses from the list of addresses assigned to the London office. 
 
 
 <p><img src="QADev-Network-Diagram.png" alt="QADev Newtork Diagram" width="900" height="600"></p>
@@ -52,7 +52,7 @@ Successfully planned an IPv4 address assignment of over 400 devices at QADev for
   </tr>
 </tbody>
 </table><br>
-QADev uses Office 365 for all email and file access for the UK branch offices, with some shared folders located in the London regional office on Windows Server 2022 servers. Because all offices have fast and highly available WANconnections to the London office, QADev was not planning to deploy any servers in the branch offices at first.The team had assigned the subnets 172.16.18.0/18 to the London regional office. The London office was currently using the network assignments shown in the following table.<br>
+The client's uses Office 365 for all email and file access for the UK branch offices, with some shared folders located in the London regional office on Windows Server 2022 servers. Because all offices have fast and highly available WANconnections to the London office, our client was not planning to deploy any servers in the branch offices at first.The team had assigned the subnets 172.16.18.0/18 to the London regional office. The London office was currently using the network assignments shown in the following table.<br>
 <table class="tg">
 <thead>
   <tr>
